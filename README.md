@@ -301,10 +301,10 @@ please check the website
 dot.style.backgroundColor
 (ai auto generate caption)
 
-[50+ caption writing styles]
-(red blue black green white violet sky blue yellow golden silver & 100+ colour caption option) 
-(login Gmail Google & sing in option) 
-(logout option)
-(add video option to ganrater caption)
+{'[50+ caption writing styles]'}
+{'(red blue black green white violet sky blue yellow golden silver & 100+ colour caption option)'}
+{'(login Gmail Google & sing in option)'}
+{'(logout option)'}
+{'(add video option to ganrater caption)'}
 
 
