@@ -298,8 +298,8 @@ please check the website
     </script>
 </body>
 </html>
-dot.style.backgroundColor
-(ai auto generate caption)
+{/:dot.style.backgroundColor}
+(ai auto generate caption):}
 
 {'[50+ caption writing styles]'}
 {'(red blue black green white violet sky blue yellow golden silver & 100+ colour caption option)'}
